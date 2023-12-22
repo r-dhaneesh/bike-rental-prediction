@@ -5,4 +5,4 @@ The assigment uses Linear Regression to build the model to predict the demand
 
 ### Accuracy
 
-The Model showed 82% accuracy in the training data set and 79% accuracy in test data set
+The Model showed 82% accuracy in the training data set and 79% accuracy in test data set.
